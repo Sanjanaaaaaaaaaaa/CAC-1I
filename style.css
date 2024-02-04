@@ -108,7 +108,7 @@ button{ display: block; cursor: pointer; border: none; }
     margin-bottom: 10px; 
     font-size: 1.3rem; 
     border-radius: 5px; 
-    color: black; 
+    color: white; 
     font-weight: bold; 
     transition: scale 0.3s ease-in-out; 
 } 
